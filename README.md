@@ -110,7 +110,8 @@ This FAQ database covers various common queries related to user accounts. The ch
 7. `Celery`-based async embeddings processing
 
 
-### docker-compose commands
+
+## docker-compose commands
     # Start up our services
     docker-compose up --build -d
     
